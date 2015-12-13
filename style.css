@@ -1,0 +1,48 @@
+body {
+	font-size: 20px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.header {
+	font-size: 40px;
+	text-align: center;
+	padding: 20px 0;
+}
+
+form {
+	padding-top: 20px;
+	width: 46%;
+	margin: 0 auto;
+}
+
+.form-row {
+	clear: both;
+	width: 100%;
+}
+
+.column-left {
+	float: left;
+}
+
+.column-right {
+	float: right;
+}
+
+input {
+    margin: 5px 0;
+    height: 21px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.submit {
+	width: 100%;
+	margin-top: 10px;
+	text-align: right;
+}
+
+.printed-info {
+    clear: both;
+    margin: 0 auto;
+    width: 46%;
+}
